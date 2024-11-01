@@ -1,0 +1,8 @@
+*** WooCommerce AdCoin Gateway Changelog ***
+
+2018-03-29 - version 0.9.8
+ * Fixed currency converter calculating an invalid price when converting to ACC.
+2018-03-29 - version 0.9.3
+ * Updated readme and plugin header.
+2018-03-01 - version 0.9
+ * Initial release.
